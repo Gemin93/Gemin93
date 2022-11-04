@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gemin93
 - 👀 I’m interested in web-development and app development for iOS
-- 🌱 I’m currently learning HTML, CSS, JS, Objective-C, Swift
+- 🌱 I’m currently learning HTML, CSS, JS
 
 
 <!---
